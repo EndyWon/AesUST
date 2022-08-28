@@ -21,7 +21,7 @@ Official code for "AesUST: Towards Aesthetic-Enhanced Universal Style Transfer" 
 
 **Test:**
 
-- Download pre-trained models from this [google drive](). Unzip and place them at path `models/`.
+- Download pre-trained models from this [google drive](https://drive.google.com/file/d/1Ldpfkt32r--ZWwhHSaKbJb7YJbOuwYLZ/view?usp=sharing). Unzip and place them at path `models/`.
 - Test a pair of images:
 
   `python test.py --content inputs/content/1.jpg --style inputs/style/1.jpg`
@@ -34,7 +34,7 @@ Official code for "AesUST: Towards Aesthetic-Enhanced Universal Style Transfer" 
 
 - Download content dataset [MS-COCO](https://cocodataset.org/#download) and style dataset [WikiArt](https://www.kaggle.com/c/painter-by-numbers) and then extract them.
 
-- Download the pre-trained [vgg_normalised.pth](), place it at path `models/`.
+- Download the pre-trained [vgg_normalised.pth](https://drive.google.com/file/d/1PUXro9eqHpPs_JwmVe47xY692N3-G9MD/view?usp=sharing), place it at path `models/`.
 
 - Run train script:
 
