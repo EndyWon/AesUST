@@ -51,7 +51,7 @@ Official code for "AesUST: Towards Aesthetic-Enhanced Universal Style Transfer" 
   
 **Style interpolation:**
 
-  `python test.py --content inputs/content/1.jpg --style inputs/style/37.jpg,inputs/style/41.jpg --style_interpolation_weights 0.5,0.5`
+  `python test.py --content inputs/content/1.jpg --style inputs/style/30.jpg,inputs/style/36.jpg --style_interpolation_weights 0.5,0.5`
   
   ![show](https://github.com/EndyWon/AesUST/blob/main/figures/style_interpolation.jpg)
   
