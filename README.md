@@ -1,7 +1,7 @@
 # AesUST
 **[update 8/28/2022]**
 
-Official code for "AesUST: Towards Aesthetic-Enhanced Universal Style Transfer" (ACM MM 2022)
+Official Pytorch code for "AesUST: Towards Aesthetic-Enhanced Universal Style Transfer" (ACM MM 2022)
 
 ## Introduction:
 
