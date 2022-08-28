@@ -1,5 +1,5 @@
 # AesUST
-**[update 8/27/2022]**
+**[update 8/28/2022]**
 
 Official code for "AesUST: Towards Aesthetic-Enhanced Universal Style Transfer" (ACM MM 2022)
 
