@@ -63,3 +63,20 @@ Official code for "AesUST: Towards Aesthetic-Enhanced Universal Style Transfer" 
   
 
 
+## Citation:
+
+If you find this code useful for your research, please cite the paper:
+
+```
+@inproceedings{wang2022aesust,
+  title={AesUST: Towards Aesthetic-Enhanced Universal Style Transfer},
+  author={Wang, Zhizhong and Zhang, Zhanjie and Zhao, Lei and Zuo, Zhiwen and Li, Ailin and Xing, Wei and Lu, Dongming},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia (ACM MM)},
+  year={2022}
+}
+```
+
+## Acknowledgement:
+
+We refer to some codes from [SANet](https://github.com/GlebSBrykin/SANET) and [IEContraAST](https://github.com/HalbertCH/IEContraAST). Great thanks to them!
+
