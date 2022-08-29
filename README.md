@@ -65,7 +65,7 @@ Official Pytorch code for "AesUST: Towards Aesthetic-Enhanced Universal Style Tr
 
 ## Citation:
 
-If you find this code useful for your research, please cite the paper:
+If you find the ideas and codes useful for your research, please cite the paper:
 
 ```
 @inproceedings{wang2022aesust,
