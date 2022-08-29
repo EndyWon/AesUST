@@ -1,1 +1,1 @@
-Download and put the pre-trained model here.
+Download and put the pre-trained models here.
