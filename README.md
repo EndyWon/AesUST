@@ -69,9 +69,10 @@ If you find the ideas and codes useful for your research, please cite the paper:
 
 ```
 @inproceedings{wang2022aesust,
-  title={AesUST: Towards Aesthetic-Enhanced Universal Style Transfer},
+  title={AesUST: towards aesthetic-enhanced universal style transfer},
   author={Wang, Zhizhong and Zhang, Zhanjie and Zhao, Lei and Zuo, Zhiwen and Li, Ailin and Xing, Wei and Lu, Dongming},
-  booktitle={Proceedings of the 30th ACM International Conference on Multimedia (ACM MM)},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={1095--1106},
   year={2022}
 }
 ```
